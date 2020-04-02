@@ -6,7 +6,7 @@ Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://j
 
 ### Experiment Result
 <video id="video" controls="" preload="none" poster="http://media.w3.org/2010/05/sintel/poster.png">
-      <source id="mp4" src="https://drive.google.com/file/d/1E4l7pOJj-ykGIufFLBu-QFuV06eEA_Qf/view?usp=sharing" type="video/mp4">
+      <source id="mp4" src="https://drive.google.com/file/d/1E4l7pOJj-ykGIufFLBu-QFuV06eEA_Qf/view" type="video/mp4">
 
       <p>Your user agent does not support the HTML5 Video element.</p>
     </video>
