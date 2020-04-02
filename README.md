@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## SOMA: A Data-Driven Representation Framework for Bimanual Soft Object Manipulation Tasks
 
 You can use the [editor on GitHub](https://github.com/Jeffery-Zhou/SOMA/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
